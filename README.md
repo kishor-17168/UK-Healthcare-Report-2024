@@ -35,3 +35,9 @@ This repository contains my project analyzing healthcare costs across the UK in 
 
 ## Objective  
 The project explores trends and patterns in healthcare expenses to identify key areas of improvement and cost optimization across departments, procedures, and regions.  
+
+##Screenshot 
+![image alt](https://github.com/kishor-17168/UK-Healthcare-Report-2024/blob/main/Screenshot%202024-12-06%20184931.png?raw=true)
+
+
+
